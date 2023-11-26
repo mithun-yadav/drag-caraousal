@@ -1,0 +1,64 @@
+/* *{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+} */
+
+/* html {
+    font-size: 15px;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: Helvetica;
+    flex-direction: column;
+  } */
+  
+  /*
+  .animateHead {
+    font-size: 6rem;
+  }
+  
+  .animateSpan {
+    display: inline-block;
+  }
+  
+  .animateHead.animate span {
+    animation-name: var(--animation);
+    animation-duration: 500ms;
+    animation-timing-function: ease-in-out;
+    animation-delay: var(--delay);
+  }
+  .pop-animamtion-btn{
+    display: none;
+  }
+
+  @keyframes pop {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(0);
+    }
+    100%{
+        transform: scale(1);
+    }
+  }
+ */
+
+ .div1{
+  width:500px;
+  white-space:nowrap;
+  overflow-x:auto;
+}
+
+.div1 div{
+  width:200px;
+  height:100px;
+  background-color:red;
+  display:inline-block;
+}
